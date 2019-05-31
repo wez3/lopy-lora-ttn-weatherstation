@@ -7,3 +7,9 @@ This repository contains a script to create a weather station using the LoPy, Py
 - Solar panel (https://www.adafruit.com/product/200)
 
 Retrieving the data using home assistant using the TTN component.
+
+Modify the following lines in the script before using (values obtained from TTN):
+```
+app_eui = binascii.unhexlify('')
+app_key = binascii.unhexlify('')
+```
