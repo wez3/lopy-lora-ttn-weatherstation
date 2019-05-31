@@ -13,3 +13,4 @@ Modify the following lines in the script before using (values obtained from TTN)
 app_eui = binascii.unhexlify('')
 app_key = binascii.unhexlify('')
 ```
+![alt tag](https://i.imgur.com/sg1jCOI.jpg)
